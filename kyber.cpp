@@ -1,4 +1,4 @@
-/***************************************************************
+/**************************************************************
  *
  * This single C++ file demonstrates a simplified version of
  * CRYSTALS-Kyber. It contains implementations of the main 
@@ -710,3 +710,4 @@ int main(){
 
     return 0;
 }
+
